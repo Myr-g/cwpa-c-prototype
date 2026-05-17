@@ -1,0 +1,23 @@
+action|A fast‑paced narrative emphasizing physical conflict, daring feats, and dynamic movement.
+adventure|A story driven by exploration, risk, and bold journeys into the unknown.
+comedy|A humorous story focused on wit, situational humor, or comedic character interactions.
+coming-of-age|A story centered on personal growth, identity, and the transition from youth to adulthood.
+drama|A character‑focused narrative emphasizing emotional conflict, tension, and personal stakes.
+dystopian|A story set in an oppressive or degraded society, exploring themes of control, survival, and resistance.
+fairytale|A whimsical or magical story rooted in classic fairytale tropes and moral lessons.
+fantasy|A collaborative fantasy story. Maintain magic consistency and world lore.
+folklore|A tale inspired by traditional myths, legends, or cultural storytelling motifs.
+gothic|A dark, atmospheric story featuring decay, mystery, and emotional or supernatural tension.
+historical|A narrative grounded in a specific historical period with attention to accuracy and context.
+horror|A tense horror story focused on atmosphere and psychological dread.
+lovecraftian|A cosmic‑horror narrative emphasizing the unknowable, the incomprehensible, and human insignificance.
+mystery|A mystery story where clues must be logically consistent.
+nonsense|A playful, absurd story that embraces illogical events and whimsical language.
+paranormal|A story involving ghosts, spirits, or unexplained phenomena that blur the line between natural and supernatural.
+philosophical|A reflective narrative exploring abstract ideas, ethics, or the nature of existence.
+romance|A character-driven romance focusing on emotional development.
+satire|A story that uses humor, irony, or exaggeration to critique society, politics, or human behavior.
+sci-fi|A science fiction narrative grounded in speculative technology.
+slice-of-life|A grounded, everyday narrative highlighting ordinary moments, subtle emotions, and personal reflection.
+thriller|A high‑stakes, suspenseful story driven by tension, danger, and escalating stakes.
+tragicomedy|A narrative blending humorous elements with serious or tragic themes.
